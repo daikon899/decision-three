@@ -10,6 +10,9 @@ Effettua un test delle regole su un dataset e restituisce un punteggio tra 0 e 1
 ## rules_pruning()
 Effettua il pruning sulle regole
 
+# Link per il dataset
+https://archive.ics.uci.edu/ml/datasets/Adult
+
 
 
 
