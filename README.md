@@ -7,5 +7,7 @@ Effettua un test dell'albero sul validation_set e restituisce un punteggio tra 0
 Trasforma l'albero in una list di regole in DNF (Mitchell 1997)
 ## test_rules(dataset, rules)
 Effettua un test delle regole su un dataset e restituisce un punteggio tra 0 e 1 in base alla sua precisione e una lista di punteggi per ogni singola regola
-## rules_pruning
+## rules_pruning()
 Effettua il pruning sulle regole
+
+Per ulteriori dettagli fare riferimento alla relazione
