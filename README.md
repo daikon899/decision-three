@@ -12,8 +12,3 @@ Effettua il pruning sulle regole
 
 # Link per il dataset
 https://archive.ics.uci.edu/ml/datasets/Adult
-
-
-
-
-Per ulteriori dettagli fare riferimento alla relazione.
